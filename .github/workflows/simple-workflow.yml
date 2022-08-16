@@ -35,4 +35,5 @@ jobs:
           echo Add other actions to build,
           echo MMMMMMMMMMMMMMMMMMMMMMMMMMM,
           echo NNNNNNNNNNNNNNNNN,
+          echo CCCCCCCCCCC,
           echo test, and deploy your project.
